@@ -1,0 +1,5 @@
+myenv/
+UserData.db
+sensitive_info.py
+__pycache__/
+.pyc
