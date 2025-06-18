@@ -4,13 +4,13 @@ An all-in-one Islamic Discord bot designed to help you with prayer reminders, Qu
 Enhance your spiritual journey and never miss a prayer again!
 
 ---
+
 # Getting Started
 Invite the bot to your server or add it as an app using this link:
 https://discord.com/oauth2/authorize?client_id=1184171513075732520
----
 
 ## Features
-
+https://discord.com/oauth2/authorize?client_id=1184171513075732520
 ### 🕋 **Prayer Reminder & Timings**
 - `setupreminder` — Set up personal prayer reminders (DM only).
 - `updatereminder` — Update your prayer reminder info.
