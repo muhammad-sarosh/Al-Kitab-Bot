@@ -5,9 +5,11 @@ Enhance your spiritual journey and never miss a prayer again!
 
 ---
 
-# Getting Started
-Invite the bot to your server or add it as an app using this link:
-https://discord.com/oauth2/authorize?client_id=1184171513075732520
+## ➕ [Add the bot to your Discord app!](https://discord.com/oauth2/authorize?client_id=1184171513075732520)
+
+Invite the bot to your server or add it as an app by clicking the above link
+
+---
 
 ## Features
 https://discord.com/oauth2/authorize?client_id=1184171513075732520
